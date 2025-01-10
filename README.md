@@ -65,7 +65,7 @@ Pie Charts: Distribution of payment methods and customer types.
 
 Heatmaps: Identifying high-performing branches and categories.
 
-### 4. Dashboard Creation
+### 5. Dashboard Creation
 An interactive dashboard summarizes:
 Total sales, revenue, and average customer ratings.
 Filters for branch, product category, and time period.
